@@ -31,8 +31,10 @@ Here are some ideas to get you started:
 <a href="https://www.facebook.com/rahulsinha036">
 <img align="left" alt="priyanka prasadInstagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
-<a href="https://www.youtube.com/rahulsinha036">
+<a href="https://www.youtube.com/channel/UCcKTmc5Msymb45c7GYUlitQ?view_as=subscriber">
 <img align="left" alt="priyanka prasadInstagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 </a>
-
+<a href="https://medium.com/@rahulsinha036">
+<img align="left" alt="priyanka prasadInstagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
+</a>
 

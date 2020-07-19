@@ -41,5 +41,21 @@ Here are some ideas to get you started:
 <br >
 <br />
 
-Hello visitors, I'm Rahul Sinha. 🚀 I am from Jharkhand, India. Currently pursuing Electronics and Communication Engineering from 🏫 LPU,Punjab. Tech enthusiasts and my keen interest are on [![IoT], [![Voice Technology], and [![Python]. Exploring more MS services as being part of Microsoft Student Partner Beta.
+**Intro**
+Hello visitors, I'm Rahul Sinha. 🚀 I am from Jharkhand, India. Currently pursuing Electronics and Communication Engineering from 🏫 LPU,Punjab. Tech enthusiasts and my keen interest are on IoT, Voice Technology like Alexa and Google Assistant, and Python. Exploring more MS services as being part of Microsoft Student Partner Beta.
+
+**🌱 I'm currently learning ...**
+- 🎇 Python with module and packages
+- 🎇 Iot and Embedded System
+- 🎇 Git and GitHub
+- 🎇 Advance Voice Tech in NLP
+
+**🕹 I am working with ** - [![GitHub Alexa Team](https://github.com/alexadevslpu)
+
+**Languages and Tools**
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+
+- 📫 How to reach me:rahulsinharaja456@gmail.com
+
 

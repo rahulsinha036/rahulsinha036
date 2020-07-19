@@ -54,7 +54,7 @@ Hello visitors, I'm Rahul Sinha. 🚀 I am from Jharkhand, India. Currently purs
 
 **🕹 I am working with ...** 
 
-[![GitHub forks](https://github.com/alexadevslpu)
+[![GitHub Alexa Repo](https://github.com/alexadevslpu)
 
 **Languages and Tools ...**
 

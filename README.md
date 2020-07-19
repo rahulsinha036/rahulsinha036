@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 
 **My Intro ..**
 
-Hello visitors, I'm Rahul Sinha. 🚀 I am from Jharkhand, India. Currently pursuing Electronics and Communication Engineering from 🏫 LPU,Punjab. Tech enthusiasts and my keen interest are on IoT, Voice Technology like Alexa and Google Assistant, and Python. Exploring more MS services as being part of Microsoft Student Partner Beta ⚡.
+Hello visitors, I'm Rahul Sinha. 🚀 I am from Jharkhand, India. Currently pursuing Electronics and Communication Engineering from 🏫 LPU-Punjab. Tech enthusiasts and my keen interest are on IoT, Voice Technology like Alexa and Google Assistant, and Python. Exploring more MS services as being part of Microsoft Student Partner Beta ⚡.
 
 **🌱 I'm currently learning ...**
 - 🎇 Python with module and packages

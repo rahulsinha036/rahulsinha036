@@ -38,3 +38,8 @@ Here are some ideas to get you started:
 <img align="left" alt="priyanka prasadInstagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
 </a>
 
+<br >
+<br />
+
+Hello visitors, I'm Rahul Sinha. 🚀 I am from Jharkhand, India. Currently pursuing Electronics and Communication Engineering from 🏫 LPU,Punjab. Tech enthusiasts and my keen interest are on [![IoT], [![Voice Technology], and [![Python]. Exploring more MS services as being part of Microsoft Student Partner Beta.
+

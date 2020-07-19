@@ -20,22 +20,22 @@ Here are some ideas to get you started:
 <img align="left" alt=" | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/rahulsinha036/">
-<img align="left" alt="priyanka prasad  LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<img align="left" alt="rahul sinha LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://t.me/rs036">
-<img align="left" alt="priyanka prasad" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+<img align="left" alt="rahul sinha" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
 <a href="https://www.instagram.com/rahulsinha036/">
-<img align="left" alt="priyanka prasadInstagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+<img align="left" alt="rahul sinha Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <a href="https://www.facebook.com/rahulsinha036">
-<img align="left" alt="priyanka prasadInstagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+<img align="left" alt="rahul sinha facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 <a href="https://www.youtube.com/channel/UCcKTmc5Msymb45c7GYUlitQ?view_as=subscriber">
-<img align="left" alt="priyanka prasadInstagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
+<img align="left" alt="rahul sinha Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 </a>
 <a href="https://medium.com/@rahulsinha036">
-<img align="left" alt="priyanka prasadInstagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
+<img align="left" alt="rahul sinha medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
 </a>
 
 <br >
@@ -54,7 +54,7 @@ Hello visitors, I'm Rahul Sinha. 🚀 I am from Jharkhand, India. Currently purs
 
 **🕹 I am working with ...** 
 
-[![AlexaTeam LPU](https://github.com/alexadevslpu)
+[![GitHub forks](https://github.com/alexadevslpu)
 
 **Languages and Tools ...**
 
